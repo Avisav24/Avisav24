@@ -1,28 +1,43 @@
 <div align="center">
 
-# 🌟 Welcome to Abhinav's Digital Universe 🌟
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,26,27&height=200&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20Digital%20Universe%20🔥&descAlignY=51&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Vats;AI+Enthusiast+%7C+Full-Stack+Developer;Building+the+Future+with+Code+%F0%9F%9A%80;LeetCode+Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B35&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Vats;AI+Enthusiast+%7C+Full-Stack+Developer;Building+the+Future+with+Code+%F0%9F%94%A5;LeetCode+Problem+Solver+%F0%9F%92%BB;Turning+Ideas+into+Reality+%E2%9A%A1" alt="Typing SVG" />
 
 ---
 
-### 🎓 Computer Science Engineering Student (3rd Year)
-### 💻 Aspiring AI & Full-Stack Developer | Problem Solver
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_CSE_Student-3rd_Year-FF4500?style=for-the-badge&labelColor=1a1a1a" alt="Student"/>
+  <img src="https://img.shields.io/badge/💻_AI_&_Full--Stack-Developer-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Developer"/>
+  <img src="https://img.shields.io/badge/🚀_Problem-Solver-FF8C00?style=for-the-badge&labelColor=1a1a1a" alt="Problem Solver"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-vats25)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.is.av@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Av_is_av/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avisav24)
+<p align="center">
+<a href="https://www.linkedin.com/in/abhinav-vats25">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
+</a>
+<a href="mailto:abhinav.is.av@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
+</a>
+<a href="https://leetcode.com/u/Av_is_av/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
+</a>
+<a href="https://github.com/Avisav24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
+</a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Avisav24&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -32,10 +47,10 @@ const abhinav = {
     location: "India 🇮🇳",
     currentRole: "CSE Student @ 3rd Year",
     currentFocus: [
-        "AI/ML Engineering",
-        "Full-Stack Development",
-        "Data Science & Analytics",
-        "Competitive Programming"
+        "🤖 AI/ML Engineering",
+        "💻 Full-Stack Development",
+        "📊 Data Science & Analytics",
+        "🧠 Competitive Programming"
     ],
     learning: [
         "Advanced Machine Learning",
@@ -55,67 +70,65 @@ const abhinav = {
 
 <br clear="right"/>
 
+<div align="center">
+
 > 💡 **Mission:** Creating intelligent solutions that bridge AI and real-world problems  
 > 🎯 **Vision:** Building scalable systems that make a difference
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages & Frameworks
 
 <p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,express&theme=dark" alt="Languages"/>
 </p>
 
 ### 🤖 AI & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=1a1a1a" alt="Keras"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a" alt="OpenCV"/>
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=git,vscode,github,mysql,postman&theme=dark" alt="Tools"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1a1a1a" alt="Jupyter"/>
 </p>
 
 ### 🏆 Competitive Programming
 
 <p>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/Data_Structures-00D9FF?style=for-the-badge" alt="DS"/>
-<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" alt="Algorithms"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/Data_Structures-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="DS"/>
+<img src="https://img.shields.io/badge/Algorithms-FF4500?style=for-the-badge&labelColor=1a1a1a" alt="Algorithms"/>
 </p>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 🎯 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
 
 ### 🗳️ Indian Election Result Predictor
 
@@ -125,19 +138,21 @@ const abhinav = {
 
 **AI-powered sentiment analysis & prediction model using Twitter data**
 
-[![Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avisav24/IndianElection_ResultPredictor)
-[![Stars](https://img.shields.io/github/stars/Avisav24/IndianElection_ResultPredictor?style=social)](https://github.com/Avisav24/IndianElection_ResultPredictor)
+<a href="https://github.com/Avisav24/IndianElection_ResultPredictor">
+<img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="View Project"/>
+</a>
+<img src="https://img.shields.io/github/stars/Avisav24/IndianElection_ResultPredictor?style=social" alt="Stars"/>
 
 **Tech Stack:**
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/-NLP-00D9FF?style=flat-square" alt="NLP"/>
+<img src="https://img.shields.io/badge/-Machine_Learning-FF6B35?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
+<img src="https://img.shields.io/badge/-NLP-FF4500?style=flat-square" alt="NLP"/>
 <img src="https://img.shields.io/badge/-Twitter_API-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter API"/>
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
 
 ### 📊 NSE Data Downloader
 
@@ -147,14 +162,16 @@ const abhinav = {
 
 **Python-based tool for fetching and analyzing stock market data**
 
-[![Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avisav24/NSE_Data_Downloader)
-[![Stars](https://img.shields.io/github/stars/Avisav24/NSE_Data_Downloader?style=social)](https://github.com/Avisav24/NSE_Data_Downloader)
+<a href="https://github.com/Avisav24/NSE_Data_Downloader">
+<img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="View Project"/>
+</a>
+<img src="https://img.shields.io/github/stars/Avisav24/NSE_Data_Downloader?style=social" alt="Stars"/>
 
 **Tech Stack:**
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/-APIs-009688?style=flat-square" alt="APIs"/>
-<img src="https://img.shields.io/badge/-Data_Science-FF6F00?style=flat-square" alt="Data Science"/>
+<img src="https://img.shields.io/badge/-Data_Science-FF6B35?style=flat-square" alt="Data Science"/>
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
@@ -164,36 +181,42 @@ const abhinav = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Avisav24">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF4500&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B35" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=FFFFFF&stroke=FF4500" alt="GitHub Streak" width="500"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" width="900"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&custom_title=Abhinav's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=FF6B35&line=FF4500&point=FFFFFF&area_color=FF4500&title_color=FF6B35&area=true" alt="Contribution Graph" width="900"/>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Avisav24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Avisav24&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 🐍 Contribution Snake - Watch It Eat My Contributions!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"> Contribution Snake - Watch It Devour My Commits! 🔥
 
 <div align="center">
 
@@ -205,130 +228,184 @@ const abhinav = {
 
 <br><br>
 
-**🌊 Ocean Theme Animation:**
+**🔥 Fire Theme Animation:**
 
-<img src="https://raw.githubusercontent.com/Avisav24/Avisav24/output/ocean.gif" alt="Ocean Snake" width="800"/>
+<img src="https://raw.githubusercontent.com/Avisav24/Avisav24/output/ocean.gif" alt="Snake Animation" width="800"/>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 🌐 Connect with Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Connect with Me
 
 <div align="center">
 
-### 📬 Let's Build Something Amazing Together!
+### 📬 Let's Build Something Amazing Together! 🔥
 
+<p>
 <a href="https://www.linkedin.com/in/abhinav-vats25">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
 </a>
 <a href="mailto:abhinav.is.av@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
 </a>
 <a href="https://leetcode.com/u/Av_is_av/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
 </a>
 <a href="https://github.com/Avisav24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
 </a>
-
-<br><br>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 🎭 Beyond Code
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Beyond Code
 
 <div align="center">
 
-<table>
+<table style="border: none;">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"><br>
 <b>💪 Fitness Enthusiast</b><br>
-Building strength & discipline
+<sub>Building strength & discipline</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
 <b>🎬 Video Editor</b><br>
-Creating visual stories
+<sub>Creating visual stories</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"><br>
 <b>🌌 Space Geek</b><br>
-Exploring the cosmos
+<sub>Exploring the cosmos</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
 <b>🗣️ Polyglot</b><br>
-Telugu & Marathi learner
+<sub>Telugu & Marathi learner</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 🏆 Achievements & Highlights
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Achievements & Highlights
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI_Projects-3+-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Projects"/>
-<img src="https://img.shields.io/badge/Languages-4-FF6F00?style=for-the-badge&logo=google-translate&logoColor=white" alt="Languages"/>
-<img src="https://img.shields.io/badge/Tech_Stack-15+-1572B6?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"/>
-<img src="https://img.shields.io/badge/Open_Source-Contributor-339933?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-<img src="https://img.shields.io/badge/Problem_Solver-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/🤖_AI_Projects-3+-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" alt="AI Projects"/>
+<img src="https://img.shields.io/badge/🗣️_Languages-4-FF4500?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=1a1a1a" alt="Languages"/>
+<img src="https://img.shields.io/badge/⚡_Tech_Stack-15+-FF8C00?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=1a1a1a" alt="Tech Stack"/>
+<img src="https://img.shields.io/badge/🌟_Open_Source-Contributor-FF6347?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
+<img src="https://img.shields.io/badge/🧠_LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 💭 Random Dev Quote
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Random Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ---
 
-## 📈 Coding Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Coding Stats & Activity
 
 <div align="center">
 
 ### 🎯 Current Focus
 
 ```text
-AI/ML Engineering     ████████████████░░░░░   80%
-Full-Stack Dev        ███████████████░░░░░░   75%
-Data Structures       ██████████████░░░░░░░   70%
-System Design         ████████░░░░░░░░░░░░░   40%
+🤖 AI/ML Engineering     ████████████████░░░░░   80%
+💻 Full-Stack Dev        ███████████████░░░░░░   75%
+🧠 Data Structures       ██████████████░░░░░░░   70%
+🏗️ System Design         ████████░░░░░░░░░░░░░   40%
+```
+
+### 📊 Weekly Development Breakdown
+
+```text
+Python       12 hrs 30 mins  ███████████░░░░░░   45%
+JavaScript   8 hrs 15 mins   ██████░░░░░░░░░░░   30%
+HTML/CSS     4 hrs 20 mins   ███░░░░░░░░░░░░░░   15%
+Other        2 hrs 45 mins   ██░░░░░░░░░░░░░░░   10%
 ```
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30"> My Coding Journey
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 Learning] -->|Practice| B[💻 Building]
+    B -->|Testing| C[🚀 Deploying]
+    C -->|Monitoring| D[📈 Scaling]
+    D -->|Improving| E[🌟 Innovating]
+    E -->|Repeat| A
+    
+    style A fill:#FF6B35,stroke:#FF4500,stroke-width:2px,color:#fff
+    style B fill:#FF4500,stroke:#FF6347,stroke-width:2px,color:#fff
+    style C fill:#FF8C00,stroke:#FF6B35,stroke-width:2px,color:#fff
+    style D fill:#FFA500,stroke:#FF8C00,stroke-width:2px,color:#fff
+    style E fill:#FFD700,stroke:#FFA500,stroke-width:2px,color:#000
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
 <div align="center">
 
-### 💫 "Code is poetry written in logic" 💫
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,26,27&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%">
+### 💫 *"Code is poetry written in logic"* 💫
 
-### 📧 Reach out: **abhinav.is.av@gmail.com**
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Avisav24&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+### 📧 **Reach out:** abhinav.is.av@gmail.com
 
-**Last Updated:** 2025-10-07 06:50:14 UTC
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+**Last Updated:** 2025-01-07 06:54:08 UTC
+
+<br>
 
 ### ⚡ Fun Fact
-**I believe in learning by building and building by learning!** 🚀
+**I believe in learning by building and building by learning!** 🚀🔥
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 </div>
