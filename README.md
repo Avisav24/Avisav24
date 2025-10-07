@@ -7,9 +7,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_CSE_Student-3rd_Year-FF4500?style=for-the-badge&labelColor=000000" alt="Student"/>
-  <img src="https://img.shields.io/badge/💻_AI_&_Full--Stack-Developer-FF6B35?style=for-the-badge&labelColor=000000" alt="Developer"/>
-  <img src="https://img.shields.io/badge/🚀_Problem-Solver-FF8C00?style=for-the-badge&labelColor=000000" alt="Problem Solver"/>
+  <img src="https://img.shields.io/badge/🎓CSE_Student-3rd_Year-FF4500?style=for-the-badge&labelColor=000000" alt="Student"/>
+  <img src="https://img.shields.io/badge/💻AI_&_Full--Stack-Developer-FF6B35?style=for-the-badge&labelColor=000000" alt="Developer"/>
+  <img src="https://img.shields.io/badge/🚀Problem-Solver-FF8C00?style=for-the-badge&labelColor=000000" alt="Problem Solver"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
