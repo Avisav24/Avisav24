@@ -173,7 +173,7 @@ const abhinav = {
 <tr>
 <td width="50%" valign="top">
 
-### 🗳️ Indian Election Result Predictor
+<h3 align="center">🗳️ Indian Election Result Predictor</h3>
 
 <div align="center">
 <a href="https://github.com/Avisav24/IndianElection_ResultPredictor">
@@ -181,17 +181,17 @@ const abhinav = {
 </a>
 </div>
 
-**AI-powered sentiment analysis & prediction model using Twitter data**
+<p align="center">AI-powered sentiment analysis & prediction model using Twitter data</p>
 
+<p align="center">
 <a href="https://github.com/Avisav24/IndianElection_ResultPredictor">
 <img src="https://img.shields.io/badge/View_Project-FF4500?style=flat-square&logo=github&logoColor=white" alt="View Project"/>
 </a>
 <img src="https://img.shields.io/github/stars/Avisav24/IndianElection_ResultPredictor?style=flat-square&color=FFD700&logo=github" alt="Stars"/>
-
-<br><br>
+</p>
 
 **Tech Stack:**
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
 <img src="https://img.shields.io/badge/NLP-FF4500?style=flat-square" alt="NLP"/>
@@ -201,7 +201,7 @@ const abhinav = {
 </td>
 <td width="50%" valign="top">
 
-### 📊 NSE Data Downloader
+<h3 align="center">📊 NSE Data Downloader</h3>
 
 <div align="center">
 <a href="https://github.com/Avisav24/NSE_Data_Downloader">
@@ -209,17 +209,17 @@ const abhinav = {
 </a>
 </div>
 
-**Python-based tool for fetching and analyzing stock market data**
+<p align="center">Python-based tool for fetching and analyzing stock market data</p>
 
+<p align="center">
 <a href="https://github.com/Avisav24/NSE_Data_Downloader">
 <img src="https://img.shields.io/badge/View_Project-FF4500?style=flat-square&logo=github&logoColor=white" alt="View Project"/>
 </a>
 <img src="https://img.shields.io/github/stars/Avisav24/NSE_Data_Downloader?style=flat-square&color=FFD700&logo=github" alt="Stars"/>
-
-<br><br>
+</p>
 
 **Tech Stack:**
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="APIs"/>
 <img src="https://img.shields.io/badge/Data_Science-FF6B35?style=flat-square" alt="Data Science"/>
@@ -245,7 +245,11 @@ const abhinav = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </a>
 
+<br><br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=FFFFFF&stroke=FF4500" alt="GitHub Streak" width="500"/>
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&custom_title=Abhinav's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=FF6B35&line=FF4500&point=FFFFFF&area_color=FF4500&title_color=FF6B35&area=true" alt="Contribution Graph" width="900"/>
 
@@ -267,21 +271,15 @@ const abhinav = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"> Contribution Snake - Watch It Devour My Commits! 🔥
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"> Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-snake-dark.svg">
 </picture>
-
-<br><br>
-
-**🔥 Fire Theme Animation:**
-
-<img src="https://raw.githubusercontent.com/Avisav24/Avisav24/output/ocean.gif" alt="Snake Animation" width="800"/>
 
 </div>
 
@@ -322,27 +320,27 @@ const abhinav = {
 
 <div align="center">
 
-<table style="border: none;">
+<table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100"><br>
 <b>💪 Fitness</b><br>
-<sub>Building strength</sub>
+<sub>Building strength & discipline</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100"><br>
 <b>🎬 Video Editing</b><br>
-<sub>Creating stories</sub>
+<sub>Creating visual stories</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100"><br>
 <b>🌌 Cosmology</b><br>
-<sub>Exploring universe</sub>
+<sub>Exploring the universe</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100"><br>
 <b>🗣️ Languages</b><br>
-<sub>Telugu & Marathi</sub>
+<sub>Learning Telugu & Marathi</sub>
 </td>
 </tr>
 </table>
@@ -449,7 +447,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-01-07 07:25:37 UTC
+**Last Updated:** 2025-10-07 07:28:19
 
 <br>
 
