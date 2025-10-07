@@ -241,13 +241,13 @@ const abhinav = {
 <div align="center">
 
 <a href="https://github.com/Avisav24">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF4500&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B35" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF4500&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B35&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=FFFFFF&stroke=FF4500" alt="GitHub Streak" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=FFFFFF&stroke=FF4500&cache_seconds=1800" alt="GitHub Streak" width="500"/>
 
 <br><br>
 
@@ -447,7 +447,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-10-07 07:28:19
+**Last Updated:** 2025-01-07 08:12:41
 
 <br>
 
