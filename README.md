@@ -263,7 +263,7 @@ const abhinav = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Avisav24&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=15&column=7&row=1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -447,7 +447,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-01-07 08:12:41
+**Last Updated:** 2025-10-07 18:25:01
 
 <br>
 
