@@ -205,7 +205,7 @@ const abhinav = {
 
 <div align="center">
 <a href="https://github.com/Avisav24/NSE_Data_Downloader">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150" height="150" alt="NSE Data"/>
 </a>
 </div>
 
