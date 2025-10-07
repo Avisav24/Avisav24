@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,26,27&height=240&section=header&text=Abhinav%20Vats&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20Digital%20Universe%20🔥&descAlignY=51&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,26,27&height=240&section=header&text=Abhinav%20Vats&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20CSE%20Student&descAlignY=52&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B35&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Vats;AI+Enthusiast+%7C+Full-Stack+Developer;Building+the+Future+with+Code+%F0%9F%94%A5;LeetCode+Problem+Solver+%F0%9F%92%BB;Turning+Ideas+into+Reality+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B35&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Vats;AI+Enthusiast+%F0%9F%A4%96+%7C+Full-Stack+Developer+%F0%9F%92%BB;CSE+Student+%F0%9F%8E%93+%7C+Problem+Solver+%F0%9F%A7%A9;Building+the+future+with+code!+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
@@ -241,17 +241,17 @@ const abhinav = {
 <div align="center">
 
 <a href="https://github.com/Avisav24">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF4500&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B35&cache_seconds=1800" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF4500&text_color=FFFFFF&ring_color=FF6B35"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=FFFFFF&stroke=FF4500&cache_seconds=1800" alt="GitHub Streak" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=FFFFFF" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&custom_title=Abhinav's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=FF6B35&line=FF4500&point=FFFFFF&area_color=FF4500&title_color=FF6B35&area=true" alt="Contribution Graph" width="900"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&custom_title=Abhinav's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=FF6B35&line=FF4500&point=FF6B35&area_color=FF4500&title_color=FF6B35&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -263,7 +263,7 @@ const abhinav = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=15&column=7&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies"/>
 
 </div>
 
@@ -435,7 +435,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,26,27&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,26,27&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn"/>
 
 ### 💫 *"Code is poetry written in logic"* 💫
 
@@ -447,7 +447,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-10-07 18:25:01
+**Last Updated:** 2025-01-07 18:33:06
 
 <br>
 
