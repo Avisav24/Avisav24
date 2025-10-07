@@ -176,7 +176,7 @@ const abhinav = {
 ### 🗳️ Indian Election Result Predictor
 
 <a href="https://github.com/Avisav24/IndianElection_ResultPredictor">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" alt="Election Predictor"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" height="150" alt="Election Predictor"/>
 </a>
 
 **AI-powered sentiment analysis & prediction model using Twitter data**
@@ -193,7 +193,7 @@ const abhinav = {
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
 <img src="https://img.shields.io/badge/NLP-FF4500?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter API"/>
+<img src="https://img.shields.io/badge/Sentiment_Analysis-1DA1F2?style=flat-square" alt="Sentiment Analysis"/>
 </p>
 
 </td>
@@ -202,7 +202,7 @@ const abhinav = {
 ### 📊 NSE Data Downloader
 
 <a href="https://github.com/Avisav24/NSE_Data_Downloader">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" alt="NSE Data"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="150" alt="NSE Data"/>
 </a>
 
 **Python-based tool for fetching and analyzing stock market data**
@@ -217,7 +217,7 @@ const abhinav = {
 **Tech Stack:**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/APIs-009688?style=flat-square" alt="APIs"/>
+<img src="https://img.shields.io/badge/APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="APIs"/>
 <img src="https://img.shields.io/badge/Data_Science-FF6B35?style=flat-square" alt="Data Science"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
@@ -321,23 +321,23 @@ const abhinav = {
 <table style="border: none;">
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"><br>
-<b>💪 Fitness Enthusiast</b><br>
-<sub>Building strength & discipline</sub>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80"><br>
+<b>💪 Fitness</b><br>
+<sub>Building strength</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
-<b>🎬 Video Editor</b><br>
-<sub>Creating visual stories</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80"><br>
+<b>🎬 Video Editing</b><br>
+<sub>Creating stories</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"><br>
-<b>🌌 Space Geek</b><br>
-<sub>Exploring the cosmos</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80"><br>
+<b>🌌 Cosmology</b><br>
+<sub>Exploring universe</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
-<b>🗣️ Language Learner</b><br>
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80"><br>
+<b>🗣️ Languages</b><br>
 <sub>Telugu & Marathi</sub>
 </td>
 </tr>
@@ -445,7 +445,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-01-07 07:06:06 UTC
+**Last Updated:** 2025-01-07 07:10:10 UTC
 
 <br>
 
