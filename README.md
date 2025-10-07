@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,26,27&height=220&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20Digital%20Universe%20🔥&descAlignY=51&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,26,27&height=230&section=header&text=Abhinav%20Vats&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20Digital%20Universe%20🔥&descAlignY=51&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B35&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Vats;AI+Enthusiast+%7C+Full-Stack+Developer;Building+the+Future+with+Code+%F0%9F%94%A5;LeetCode+Problem+Solver+%F0%9F%92%BB;Turning+Ideas+into+Reality+%E2%9A%A1" alt="Typing SVG" />
 
