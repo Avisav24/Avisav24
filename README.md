@@ -7,25 +7,25 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_CSE_Student-3rd_Year-FF4500?style=for-the-badge&labelColor=1a1a1a" alt="Student"/>
-  <img src="https://img.shields.io/badge/💻_AI_&_Full--Stack-Developer-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="Developer"/>
-  <img src="https://img.shields.io/badge/🚀_Problem-Solver-FF8C00?style=for-the-badge&labelColor=1a1a1a" alt="Problem Solver"/>
+  <img src="https://img.shields.io/badge/🎓_CSE_Student-3rd_Year-FF4500?style=for-the-badge&labelColor=000000" alt="Student"/>
+  <img src="https://img.shields.io/badge/💻_AI_&_Full--Stack-Developer-FF6B35?style=for-the-badge&labelColor=000000" alt="Developer"/>
+  <img src="https://img.shields.io/badge/🚀_Problem-Solver-FF8C00?style=for-the-badge&labelColor=000000" alt="Problem Solver"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhinav-vats25">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:abhinav.is.av@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://leetcode.com/u/Av_is_av/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="https://github.com/Avisav24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
@@ -102,50 +102,61 @@ const abhinav = {
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" alt="Languages"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ### 🌐 Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react&theme=dark" alt="Frameworks"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a" alt="Flask"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
 ### 🤖 AI & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=1a1a1a" alt="Keras"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode,github,mysql,postman&theme=dark" alt="Tools"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1a1a1a" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
 ### 🏆 Competitive Programming
 
 <p>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/Data_Structures-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="DS"/>
-<img src="https://img.shields.io/badge/Algorithms-FF4500?style=for-the-badge&labelColor=1a1a1a" alt="Algorithms"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/Data_Structures-FF6B35?style=for-the-badge&logoColor=white" alt="DS"/>
+<img src="https://img.shields.io/badge/Algorithms-FF4500?style=for-the-badge&logoColor=white" alt="Algorithms"/>
+<img src="https://img.shields.io/badge/Problem_Solving-FF8C00?style=for-the-badge&logoColor=white" alt="Problem Solving"/>
 </p>
 
 ### 🗣️ Spoken Languages
 
 <p>
-<img src="https://img.shields.io/badge/English-Fluent-4CAF50?style=for-the-badge&labelColor=1a1a1a" alt="English"/>
-<img src="https://img.shields.io/badge/Hindi-Native-4CAF50?style=for-the-badge&labelColor=1a1a1a" alt="Hindi"/>
-<img src="https://img.shields.io/badge/Telugu-Learning-FFA726?style=for-the-badge&labelColor=1a1a1a" alt="Telugu"/>
-<img src="https://img.shields.io/badge/Marathi-Learning-FFA726?style=for-the-badge&labelColor=1a1a1a" alt="Marathi"/>
+<img src="https://img.shields.io/badge/English-Fluent-4CAF50?style=for-the-badge" alt="English"/>
+<img src="https://img.shields.io/badge/Hindi-Native-4CAF50?style=for-the-badge" alt="Hindi"/>
+<img src="https://img.shields.io/badge/Telugu-Learning-FFA726?style=for-the-badge" alt="Telugu"/>
+<img src="https://img.shields.io/badge/Marathi-Learning-FFA726?style=for-the-badge" alt="Marathi"/>
 </p>
 
 </div>
@@ -160,7 +171,7 @@ const abhinav = {
 
 <table>
 <tr>
-<td width="50%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
+<td width="50%" valign="top">
 
 ### 🗳️ Indian Election Result Predictor
 
@@ -171,20 +182,20 @@ const abhinav = {
 **AI-powered sentiment analysis & prediction model using Twitter data**
 
 <a href="https://github.com/Avisav24/IndianElection_ResultPredictor">
-<img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="View Project"/>
+<img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
-<img src="https://img.shields.io/github/stars/Avisav24/IndianElection_ResultPredictor?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Avisav24/IndianElection_ResultPredictor?style=for-the-badge&color=FFD700" alt="Stars"/>
 
 **Tech Stack:**
 <p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-Machine_Learning-FF6B35?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/-NLP-FF4500?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/-Twitter_API-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter API"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
+<img src="https://img.shields.io/badge/NLP-FF4500?style=for-the-badge" alt="NLP"/>
+<img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API"/>
 </p>
 
 </td>
-<td width="50%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
+<td width="50%" valign="top">
 
 ### 📊 NSE Data Downloader
 
@@ -195,16 +206,16 @@ const abhinav = {
 **Python-based tool for fetching and analyzing stock market data**
 
 <a href="https://github.com/Avisav24/NSE_Data_Downloader">
-<img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="View Project"/>
+<img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
-<img src="https://img.shields.io/github/stars/Avisav24/NSE_Data_Downloader?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Avisav24/NSE_Data_Downloader?style=for-the-badge&color=FFD700" alt="Stars"/>
 
 **Tech Stack:**
 <p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-APIs-009688?style=flat-square" alt="APIs"/>
-<img src="https://img.shields.io/badge/-Data_Science-FF6B35?style=flat-square" alt="Data Science"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/APIs-009688?style=for-the-badge" alt="APIs"/>
+<img src="https://img.shields.io/badge/Data_Science-FF6B35?style=for-the-badge" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 </td>
@@ -278,16 +289,16 @@ const abhinav = {
 
 <p>
 <a href="https://www.linkedin.com/in/abhinav-vats25">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:abhinav.is.av@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://leetcode.com/u/Av_is_av/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="https://github.com/Avisav24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
@@ -305,22 +316,22 @@ const abhinav = {
 
 <table style="border: none;">
 <tr>
-<td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
+<td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"><br>
 <b>💪 Fitness Enthusiast</b><br>
 <sub>Building strength & discipline</sub>
 </td>
-<td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
+<td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
 <b>🎬 Video Editor</b><br>
 <sub>Creating visual stories</sub>
 </td>
-<td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
+<td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"><br>
 <b>🌌 Space Geek</b><br>
 <sub>Exploring the cosmos</sub>
 </td>
-<td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
+<td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
 <b>🗣️ Language Learner</b><br>
 <sub>Telugu & Marathi</sub>
@@ -338,12 +349,12 @@ const abhinav = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🤖_AI_Projects-3+-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" alt="AI Projects"/>
-<img src="https://img.shields.io/badge/💻_Coding_Languages-4-FF4500?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a1a" alt="Coding Languages"/>
-<img src="https://img.shields.io/badge/🗣️_Spoken_Languages-4-FFA726?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=1a1a1a" alt="Spoken Languages"/>
-<img src="https://img.shields.io/badge/⚡_Tech_Stack-15+-FF8C00?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=1a1a1a" alt="Tech Stack"/>
-<img src="https://img.shields.io/badge/🌟_Open_Source-Contributor-FF6347?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
-<img src="https://img.shields.io/badge/🧠_LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/🤖_AI_Projects-3+-FF6B35?style=for-the-badge&logoColor=white" alt="AI Projects"/>
+<img src="https://img.shields.io/badge/💻_Coding_Languages-5-3776AB?style=for-the-badge&logoColor=white" alt="Coding Languages"/>
+<img src="https://img.shields.io/badge/🗣️_Spoken_Languages-4-4CAF50?style=for-the-badge&logoColor=white" alt="Spoken Languages"/>
+<img src="https://img.shields.io/badge/⚡_Tech_Stack-20+-FF8C00?style=for-the-badge&logoColor=white" alt="Tech Stack"/>
+<img src="https://img.shields.io/badge/🌟_Open_Source-Contributor-FF6347?style=for-the-badge&logoColor=white" alt="Open Source"/>
+<img src="https://img.shields.io/badge/🧠_LeetCode-Active-FFA116?style=for-the-badge&logoColor=white" alt="LeetCode"/>
 
 </div>
 
@@ -430,7 +441,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-01-07 06:57:33 UTC
+**Last Updated:** 2025-10-07 07:01:01 UTC
 
 <br>
 
