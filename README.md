@@ -193,15 +193,21 @@ const abhinav = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten by a Snake!
+## 🐍 Contribution Snake - Watch It Eat My Contributions!
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avisav24/Avisav24/output/github-snake.svg">
 </picture>
+
+<br><br>
+
+**🌊 Ocean Theme Animation:**
+
+<img src="https://raw.githubusercontent.com/Avisav24/Avisav24/output/ocean.gif" alt="Ocean Snake" width="800"/>
 
 </div>
 
@@ -295,9 +301,6 @@ Telugu & Marathi learner
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### 🎯 Current Focus
 
 ```text
@@ -305,23 +308,6 @@ AI/ML Engineering     ████████████████░░░�
 Full-Stack Dev        ███████████████░░░░░░   75%
 Data Structures       ██████████████░░░░░░░   70%
 System Design         ████████░░░░░░░░░░░░░   40%
-```
-
-</div>
-
----
-
-## 🎨 My Coding Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 Learning] --> B[💻 Building]
-    B --> C[🚀 Deploying]
-    C --> D[📈 Scaling]
-    D --> E[🌟 Innovating]
-    E --> A
 ```
 
 </div>
@@ -338,7 +324,7 @@ graph LR
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Avisav24&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Last Updated:** 2025-10-07 06:46:07 UTC
+**Last Updated:** 2025-10-07 06:50:14 UTC
 
 ---
 
