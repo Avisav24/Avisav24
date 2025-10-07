@@ -175,9 +175,11 @@ const abhinav = {
 
 ### 🗳️ Indian Election Result Predictor
 
+<div align="center">
 <a href="https://github.com/Avisav24/IndianElection_ResultPredictor">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" height="150" alt="Election Predictor"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150" height="150" alt="Election Predictor"/>
 </a>
+</div>
 
 **AI-powered sentiment analysis & prediction model using Twitter data**
 
@@ -201,9 +203,11 @@ const abhinav = {
 
 ### 📊 NSE Data Downloader
 
+<div align="center">
 <a href="https://github.com/Avisav24/NSE_Data_Downloader">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="150" alt="NSE Data"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150" height="150" alt="NSE Data"/>
 </a>
+</div>
 
 **Python-based tool for fetching and analyzing stock market data**
 
@@ -445,7 +449,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-01-07 07:22:42 UTC
+**Last Updated:** 2025-01-07 07:25:37 UTC
 
 <br>
 
