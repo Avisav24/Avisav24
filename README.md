@@ -182,16 +182,18 @@ const abhinav = {
 **AI-powered sentiment analysis & prediction model using Twitter data**
 
 <a href="https://github.com/Avisav24/IndianElection_ResultPredictor">
-<img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+<img src="https://img.shields.io/badge/View_Project-FF4500?style=flat-square&logo=github&logoColor=white" alt="View Project"/>
 </a>
-<img src="https://img.shields.io/github/stars/Avisav24/IndianElection_ResultPredictor?style=for-the-badge&color=FFD700" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Avisav24/IndianElection_ResultPredictor?style=flat-square&color=FFD700&logo=github" alt="Stars"/>
+
+<br><br>
 
 **Tech Stack:**
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/NLP-FF4500?style=for-the-badge" alt="NLP"/>
-<img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
+<img src="https://img.shields.io/badge/NLP-FF4500?style=flat-square" alt="NLP"/>
+<img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter API"/>
 </p>
 
 </td>
@@ -206,16 +208,18 @@ const abhinav = {
 **Python-based tool for fetching and analyzing stock market data**
 
 <a href="https://github.com/Avisav24/NSE_Data_Downloader">
-<img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+<img src="https://img.shields.io/badge/View_Project-FF4500?style=flat-square&logo=github&logoColor=white" alt="View Project"/>
 </a>
-<img src="https://img.shields.io/github/stars/Avisav24/NSE_Data_Downloader?style=for-the-badge&color=FFD700" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Avisav24/NSE_Data_Downloader?style=flat-square&color=FFD700&logo=github" alt="Stars"/>
+
+<br><br>
 
 **Tech Stack:**
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/APIs-009688?style=for-the-badge" alt="APIs"/>
-<img src="https://img.shields.io/badge/Data_Science-FF6B35?style=for-the-badge" alt="Data Science"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/APIs-009688?style=flat-square" alt="APIs"/>
+<img src="https://img.shields.io/badge/Data_Science-FF6B35?style=flat-square" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 </td>
@@ -441,7 +445,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-10-07 07:01:01 UTC
+**Last Updated:** 2025-01-07 07:06:06 UTC
 
 <br>
 
