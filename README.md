@@ -46,23 +46,37 @@ const abhinav = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
     currentRole: "CSE Student @ 3rd Year",
+    
+    codingLanguages: [
+        "Python", "JavaScript", 
+        "HTML/CSS", "SQL"
+    ],
+    
+    spokenLanguages: [
+        "English", "Hindi",
+        "Telugu (Learning)", 
+        "Marathi (Learning)"
+    ],
+    
     currentFocus: [
         "🤖 AI/ML Engineering",
         "💻 Full-Stack Development",
         "📊 Data Science & Analytics",
         "🧠 Competitive Programming"
     ],
+    
     learning: [
         "Advanced Machine Learning",
         "Cloud Computing (AWS/Azure)",
         "System Design",
         "DSA Mastery"
     ],
-    languages: ["Telugu", "Marathi", "Hindi", "English"],
+    
     askMeAbout: [
         "Web Dev", "AI", "Python", 
         "APIs", "Data Analytics", "LeetCode"
     ],
+    
     funFact: "I turn caffeine into code ☕️→💻",
     goals2025: "Contribute to Open Source & Master AI"
 };
@@ -85,18 +99,27 @@ const abhinav = {
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,express&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" alt="Languages"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" alt="SQL"/>
+</p>
+
+### 🌐 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react&theme=dark" alt="Frameworks"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a" alt="Flask"/>
 </p>
 
 ### 🤖 AI & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=1a1a1a" alt="Keras"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a" alt="OpenCV"/>
 </p>
@@ -114,6 +137,15 @@ const abhinav = {
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
 <img src="https://img.shields.io/badge/Data_Structures-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="DS"/>
 <img src="https://img.shields.io/badge/Algorithms-FF4500?style=for-the-badge&labelColor=1a1a1a" alt="Algorithms"/>
+</p>
+
+### 🗣️ Spoken Languages
+
+<p>
+<img src="https://img.shields.io/badge/English-Fluent-4CAF50?style=for-the-badge&labelColor=1a1a1a" alt="English"/>
+<img src="https://img.shields.io/badge/Hindi-Native-4CAF50?style=for-the-badge&labelColor=1a1a1a" alt="Hindi"/>
+<img src="https://img.shields.io/badge/Telugu-Learning-FFA726?style=for-the-badge&labelColor=1a1a1a" alt="Telugu"/>
+<img src="https://img.shields.io/badge/Marathi-Learning-FFA726?style=for-the-badge&labelColor=1a1a1a" alt="Marathi"/>
 </p>
 
 </div>
@@ -290,8 +322,8 @@ const abhinav = {
 </td>
 <td align="center" width="25%" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%); border-radius: 10px; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
-<b>🗣️ Polyglot</b><br>
-<sub>Telugu & Marathi learner</sub>
+<b>🗣️ Language Learner</b><br>
+<sub>Telugu & Marathi</sub>
 </td>
 </tr>
 </table>
@@ -307,7 +339,8 @@ const abhinav = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/🤖_AI_Projects-3+-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a" alt="AI Projects"/>
-<img src="https://img.shields.io/badge/🗣️_Languages-4-FF4500?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=1a1a1a" alt="Languages"/>
+<img src="https://img.shields.io/badge/💻_Coding_Languages-4-FF4500?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a1a" alt="Coding Languages"/>
+<img src="https://img.shields.io/badge/🗣️_Spoken_Languages-4-FFA726?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=1a1a1a" alt="Spoken Languages"/>
 <img src="https://img.shields.io/badge/⚡_Tech_Stack-15+-FF8C00?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=1a1a1a" alt="Tech Stack"/>
 <img src="https://img.shields.io/badge/🌟_Open_Source-Contributor-FF6347?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Source"/>
 <img src="https://img.shields.io/badge/🧠_LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" alt="LeetCode"/>
@@ -397,7 +430,7 @@ graph LR
 
 <img src="https://komarev.com/ghpvc/?username=Avisav24&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Last Updated:** 2025-01-07 06:54:08 UTC
+**Last Updated:** 2025-01-07 06:57:33 UTC
 
 <br>
 
