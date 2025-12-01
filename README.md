@@ -286,24 +286,30 @@ Automated Python tool for fetching, processing, and analyzing NSE stock market d
 
 <div align="center">
 
-<a href="https://github.com/Avisav24">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=FFFFFF&ring_color=667eea&border_radius=15" height="195" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Avisav24">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&langs_count=8&border_radius=15" height="195" alt="Top Languages"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Avisav24">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=FFFFFF&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Avisav24">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&langs_count=6" height="170" alt="Top Languages"/>
+  </a>
+</p>
 
-<br><br>
+<br>
 
-<a href="https://github.com/Avisav24">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=764ba2&stroke=FFFFFF&border_radius=15" alt="GitHub Streak"/>
-</a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Avisav24&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=764ba2" alt="GitHub Streak"/>
+  </a>
+</p>
 
-<br><br>
+<br>
 
-<a href="https://github.com/Avisav24">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&theme=tokyo-night&hide_border=true&border_radius=15&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area_color=667eea&title_color=667eea&area=true" alt="Contribution Graph"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Avisav24">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&title_color=667eea&area_color=667eea" alt="Contribution Graph"/>
+  </a>
+</p>
 
 </div>
 
@@ -316,7 +322,9 @@ Automated Python tool for fetching, processing, and analyzing NSE stock market d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</p>
 
 <br><br>
 
