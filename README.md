@@ -201,6 +201,6 @@ Automated tool for fetching and analyzing NSE stock data with real-time processi
   
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:647eea,50:764ba2,100:f093fb&height=120&section=footer"/>
 
 </div>
