@@ -4,6 +4,10 @@
 
 <div align="center">
 
+<!-- Small looping Java logo animation -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VqbnU1b2M3dzFhN3Z4cm9qM2JzM2E1YXNqM2d1NnE3eDNpeGtvMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VgCDAzcKvsR6OM0uWg/giphy.gif"
+     alt="Java Logo Animation" width="90" />
+
 <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=ABHINAV+VATS;Full‑Stack+Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Backend+Systems"
@@ -37,7 +41,10 @@
 <!-- ===================== QUICK TYPING INTRO ===================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full‑Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React.js;Clean+Code+%7C+Scalable+Systems+%7C+High+Ownership;Always+learning+%26+building+in+public" alt="Typing Intro"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full‑Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React.js;Clean+Code+%7C+Scalable+Systems+%7C+High+Ownership;Always+learning+%26+building+in+public"
+    alt="Typing Intro"
+  />
 </div>
 
 ---
@@ -93,7 +100,7 @@ class Developer {
   <!-- Main Stats -->
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats-nu-gilt.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
   />
 
@@ -109,7 +116,7 @@ class Developer {
   <!-- Top Languages -->
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
+    src="https://github-readme-stats-nu-gilt.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
     alt="Top Languages"
   />
 
@@ -176,7 +183,8 @@ class Developer {
       <sub><b>Docker</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" /><br/>
+      <!-- Fixed AWS icon from vectorlogo.zone -->
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" height="45" alt="AWS" /><br/>
       <sub><b>AWS</b></sub>
     </td>
     <td align="center" width="100">
