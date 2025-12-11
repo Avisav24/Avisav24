@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20React%20Specialist%20%7C%20DSA%20Enthusiast&descAlignY=52&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=209&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20React%20Specialist%20%7C%20DSA%20Enthusiast&descAlignY=52&descAlign=50"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+Scalable+Full-Stack+Solutions;Mastering+Data+Structures+%26+Algorithms;React+%2B+Spring+Boot+Expert" alt="Typing SVG"/>
