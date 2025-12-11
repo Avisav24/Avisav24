@@ -40,7 +40,6 @@ class Developer {
     String name = "Abhinav Vats";
     String role = "Java Full-Stack Developer";
     String education = "BTech CSE | 3rd Year";
-    double cgpa = 9.17;
 
     String[] coreSkills = {
         "Java Backend Development",
