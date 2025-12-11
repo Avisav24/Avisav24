@@ -1,128 +1,105 @@
+<!-- 
+Hello there! Welcome to my profile.
+I've designed this README to be a snapshot of my professional life. 
+Feel free to explore and connect with me. 
+-->
+
 <div align="center">
-  
-  <!-- Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=ffffff&fontAlignY=35" alt="Header" />
-
-  <!-- Subtitle -->
-  <h3>👨‍💻 Java Full-Stack Developer | 🚀 Spring Boot & Microservices | ⚛️ React Enthusiast</h3>
-
-  <!-- Social Badges -->
-  <p>
-    <a href="mailto:abhinav.is.av@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/avisav24">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <a href="https://github.com/Avisav24">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abhinav%20Vats&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
+  </a>
 </div>
 
-<br />
-
-<!-- About Me - Code Style -->
-<h3 align="center">⚡ About Me</h3>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=I+speak+Java+and+TypeScript.;Building+Scalable+Systems.;Grinding+DSA+Daily.;Open+for+Collaborations!" alt="Typing SVG" />
+<div align="center"> 
+  <a href="mailto:abhinav.is.av@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-vats25">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Av_is_av/">
+    <img src="https://img.shields.io/badge/LeetCode-Challenge%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </div>
 
-```java
-class Developer {
-    String name = "Abhinav Vats";
-    String role = "Java Full-Stack Developer";
-    String education = "BTech CSE | 3rd Year";
-    double cgpa = 9.17;
-    
-    String[] coreSkills = { 
-        "Java Backend Development", 
-        "Spring Boot & Microservices",
-        "React Frontend", 
-        "Data Structures & Algorithms", 
-        "System Design" 
-    }; 
-    
-    String currentFocus = "Mastering Distributed Systems & Advanced DSA";
-}
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Java+Full-Stack+Developer;Building+Scalable+%26+Distributed+Systems;Spring+Boot+%7C+Microservices+%7C+React.js;Always+Learning,+Always+Coding" alt="Typing SVG"/>
+</div>
 
 ---
 
-<!-- Tech Stack Section -->
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+### 👑 GitHub Trophy Case
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</div>
+
+---
+
+### 🔥 GitHub Stats & Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Avisav24">
+          <img src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Avisav24">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ My Tech Stack
+
+<div align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  
+  <br>
+  
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-555555?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
+  
+  <br>
+  
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  
+  <br>
+  
   <!-- Database & Cloud -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
 ---
 
 <div align="center">
-
-<!-- Two Column Layout Table -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 DSA Progress
-<br/>
-
-| Topic | Progress |
-| :--- | :--- |
-| **Arrays & Strings** | `100%` ██████████ |
-| **Recursion** | `80%` &nbsp; ████████░░ |
-| **Linked Lists** | `75%` &nbsp; ███████▓░░ |
-| **Trees & Graphs** | `70%` &nbsp; ███████░░░ |
-| **Dynamic Prog.** | `55%` &nbsp; █████▓░░░░ |
-| **System Design** | `50%` &nbsp; █████░░░░░ |
-
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA_Problems-75+-7AA2F7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-FAANG_Prep-BB9AF7?style=flat-square"/>
-</p>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🔥 GitHub Stats
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 🤝 Let's Connect & Collaborate
-  
-  <p>I am actively seeking <b>Full-Stack Development Internships</b> and <b>Software Engineering Roles</b>.</p>
-  
+  <h3>🤝 Let's Connect & Collaborate</h3>
+  <p>I'm actively seeking <b>Full-Stack Development Internships</b> and <b>SDE Roles</b>.</p>
+  <p>Open to collaborating on exciting projects!</p>
+  <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="Coding Gif">
-  
-  <br/><br/>
-  
-  <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer"/>
 </div>
