@@ -74,69 +74,69 @@ class Developer {
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
-<br>Java
+<br><span style="color:#FF5722;">Java</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48" height="48" />
-<br>Spring Boot
+<br><span style="color:#4CAF50;">Spring Boot</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48" />
-<br>Hibernate
+<br><span style="color:#795548;">Hibernate</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48" />
-<br>Maven
+<br><span style="color:#607D8B;">Maven</span>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=api" alt="REST APIs" width="48" height="48" />
-<br>REST APIs
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+<br><span style="color:#FF9800;">AWS</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-<br>React
+<br><span style="color:#61DAFB;">React</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" />
-<br>JavaScript
+<br><span style="color:#F7DF1E;">JavaScript</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" />
-<br>TypeScript
+<br><span style="color:#3178C6;">TypeScript</span>
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
-<br>HTML5
+<br><span style="color:#E34F26;">HTML5</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
-<br>CSS3
+<br><span style="color:#1572B6;">CSS3</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="48" height="48" />
-<br>Redux
+<br><span style="color:#764ABC;">Redux</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
-<br>MySQL
+<br><span style="color:#4479A1;">MySQL</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-<br>PostgreSQL
+<br><span style="color:#336791;">PostgreSQL</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-<br>MongoDB
+<br><span style="color:#47A248;">MongoDB</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-<br>Git
+<br><span style="color:#F05032;">Git</span>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
-<br>Postman
+<br><span style="color:#FF6C37;">Postman</span>
 </td>
 </tr>
 </table>
@@ -202,7 +202,7 @@ Automated tool for fetching and analyzing NSE stock data with real-time processi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=aura&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=aura&column=6&margin-w=15&margin-h=15"/>
 
 </div>
 
