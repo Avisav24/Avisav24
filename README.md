@@ -202,9 +202,7 @@ Automated tool for fetching and analyzing NSE stock data with real-time processi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=discord&no-frame=true&margin-w=4&column=6"/>
-
-<p>— Related achievement icons placeholder image was added —</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=aura&column=6"/>
 
 </div>
 
