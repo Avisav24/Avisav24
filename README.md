@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=20&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20React%20Specialist%20%7C%20DSA%20Enthusiast&descAlignY=52&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20React%20Specialist%20%7C%20DSA%20Enthusiast&descAlignY=52&descAlign=50"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+Scalable+Full-Stack+Solutions;Mastering+Data+Structures+%26+Algorithms;React+%2B+Spring+Boot+Expert" alt="Typing SVG"/>
@@ -70,43 +70,96 @@ class Developer {
 
 <div align="center">
 
-### Backend Development
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge"/>
-</p>
-
-### Frontend Development
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
-
-### Databases & Tools
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### DSA & Problem Solving
-<p>
-<img src="https://img.shields.io/badge/Data_Structures-667eea?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-<img src="https://img.shields.io/badge/Competitive_Programming-f093fb?style=for-the-badge"/>
-</p>
-
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" alt="icon" width="48" height="48" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=hibernate" alt="icon" width="48" height="48" />
+<br>Hibernate
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=maven" alt="icon" width="48" height="48" />
+<br>Maven
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=api" alt="icon" width="48" height="48" />
+<br>RESTful APIs
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="48" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" alt="icon" width="48" height="48" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" alt="icon" width="48" height="48" />
+<br>CSS3
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redux" alt="icon" width="48" height="48" />
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="48" height="48" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="48" height="48" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="48" height="48" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" alt="icon" width="48" height="48" />
+<br>Git
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" alt="icon" width="48" height="48" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dsa" alt="icon" width="48" height="48" />
+<br>Data Structures
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=algorithm" alt="icon" width="48" height="48" />
+<br>Algorithms
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=leetcode" alt="icon" width="48" height="48" />
+<br>LeetCode
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=coding" alt="icon" width="48" height="48" />
+<br>Competitive Programming
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -201,6 +254,6 @@ Automated tool for fetching and analyzing NSE stock data with real-time processi
   
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:647eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
 
 </div>
