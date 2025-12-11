@@ -73,90 +73,70 @@ class Developer {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
 <br>Java
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48" height="48" />
 <br>Spring Boot
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=hibernate" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48" />
 <br>Hibernate
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=maven" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48" />
 <br>Maven
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=api" alt="icon" width="48" height="48" />
-<br>RESTful APIs
+<img src="https://skillicons.dev/icons?i=api" alt="REST APIs" width="48" height="48" />
+<br>REST APIs
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
 <br>React
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" />
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" />
 <br>TypeScript
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
 <br>HTML5
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
 <br>CSS3
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="48" height="48" />
 <br>Redux
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
 <br>MySQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
 <br>PostgreSQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
 <br>MongoDB
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
 <br>Git
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" alt="icon" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
 <br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dsa" alt="icon" width="48" height="48" />
-<br>Data Structures
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=algorithm" alt="icon" width="48" height="48" />
-<br>Algorithms
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=leetcode" alt="icon" width="48" height="48" />
-<br>LeetCode
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=coding" alt="icon" width="48" height="48" />
-<br>Competitive Programming
 </td>
 </tr>
 </table>
@@ -222,7 +202,9 @@ Automated tool for fetching and analyzing NSE stock data with real-time processi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=discord&no-frame=true&margin-w=4&column=6"/>
+
+<p>— Related achievement icons placeholder image was added —</p>
 
 </div>
 
