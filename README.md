@@ -4,15 +4,19 @@
 
 <div align="center">
 
-  <!-- Tech GIF banner with name -->
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
-       alt="Abhinav Vats Tech Banner" width="30%" />
-
-  <h1 align="center">ABHINAV VATS | TECH</h1>
-
-  <h3 align="center">
-    Full‑Stack Software Developer · Java · Spring Boot · React
-  </h3>
+  <table>
+    <tr>
+      <td align="center" width="45%">
+        <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+             alt="Abhinav Vats Tech Banner" width="100%" />
+      </td>
+      <td align="center" width="55%">
+        <h1 style="font-size: 3em; margin: 0;">ABHINAV VATS</h1>
+        <h2 style="color: #00BFFF; font-size: 2em; margin: 0.5em 0;">Full-Stack Developer</h2>
+        <p style="font-size: 1.2em; margin-top: 1em;">Java | Spring Boot | React</p>
+      </td>
+    </tr>
+  </table>
 
   <img src="https://raw.githubusercontent.com/ABSphreak/readme-jokes/main/assets/line-neon.gif" alt="divider" width="80%" />
 
@@ -29,8 +33,6 @@
     <img src="https://komarev.com/ghpvc/?username=Avisav24&style=for-the-badge&color=000000&label=PROFILE%20VIEWS" alt="Profile Views"/>
   </p>
 
- 
-
 </div>
 
 ---
@@ -39,7 +41,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full‑Stack+Developer;Spring+Boot+%26+Microservices;React.js+%7C+TypeScript;Open+to+SDE+Internships+%26+Full‑Time+Roles"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full%E2%80%91Stack+Developer;Spring+Boot+Enthusiast;Building+Scalable+Systems;Problem+Solving+Focus;Coffee+Powered+Developer"
     alt="Typing Intro"
   />
 </div>
@@ -75,16 +77,16 @@ class Developer {
 }
 ```
 
-  </td>
+    </td>
 
-  <!-- RIGHT: Java-themed coding animation -->
-  <td width="45%" align="center">
-    <img
-      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk0M2V1bWdqOW9ycGZ4NjN1YnhycmJkYXM1dXc4bzR5MzRqaGFrMCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/SS8CV2rQdlYNLtBCiF/giphy.gif"
-      alt="Java coding animation"
-      width="100%"
-    />
-  </td>
+    <!-- RIGHT: Java-themed coding animation -->
+    <td width="45%" align="center">
+      <img
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk0M2V1bWdqOW9ycGZ4NjN1YnhycmJkYXM1dXc4bzR5MzRqaGFrMCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/SS8CV2rQdlYNLtBCiF/giphy.gif"
+        alt="Java coding animation"
+        width="100%"
+      />
+    </td>
   </tr>
 </table>
 
@@ -94,23 +96,27 @@ class Developer {
 
 <div align="center">
 
-  <!-- Main Stats -->
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-
-  <!-- Streak -->
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=Avisav24&theme=tokyonight&hide_border=false"
-    alt="GitHub Streak"
-  />
+  <table>
+    <tr>
+      <td width="50%">
+        <img
+          height="170"
+          src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td width="50%">
+        <img
+          height="170"
+          src="https://streak-stats.demolab.com?user=Avisav24&theme=tokyonight&hide_border=false"
+          alt="GitHub Streak"
+        />
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
-  <!-- Top Languages -->
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
@@ -119,7 +125,7 @@ class Developer {
 
 </div>
 
-> If any card shows as a broken image or “Something went wrong”, refresh the page or try again later – these services are rate‑limited.
+> If any card shows as a broken image or "Something went wrong", refresh the page or try again later – these services are rate‑limited.
 
 ---
 
@@ -180,7 +186,6 @@ class Developer {
       <sub><b>Docker</b></sub>
     </td>
     <td align="center" width="100">
-      <!-- Fixed AWS icon from vectorlogo.zone -->
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" height="45" alt="AWS" /><br/>
       <sub><b>AWS</b></sub>
     </td>
@@ -216,11 +221,11 @@ class Developer {
 
 ---
 
-## 🤝 Let’s Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2aW9sbGR0N3RwMGQ0cXAzanRrYTdsb2UybXBja293NmRveDEyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Developer at work" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2aW9sbGR0N3RwMGQ0cXAzanRrYTdsb2UybXBja293NmRveDEyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Let's Connect"/>
 
   <br/><br/>
 
