@@ -44,6 +44,11 @@
 
 ## ⚡ About Me
 
+<table>
+  <tr>
+    <!-- LEFT: Java-style code snippet -->
+    <td width="55%">
+
 ```java
 class Developer {
     String name = "Abhinav Vats";
@@ -59,10 +64,25 @@ class Developer {
         "System Design & Scalability"
     };
 
-    String currentFocus = "Building production-ready distributed systems";
-    String openTo = "Full-Stack roles & SDE internships";
+    String currentFocus =
+        "Building production-ready distributed systems";
+    String openTo =
+        "Full-Stack roles & SDE internships";
 }
 ```
+
+  </td>
+
+  <!-- RIGHT: Java-themed coding animation -->
+  <td width="45%" align="center">
+    <img
+      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk0M2V1bWdqOW9ycGZ4NjN1YnhycmJkYXM1dXc4bzR5MzRqaGFrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif"
+      alt="Java coding animation"
+      width="100%"
+    />
+  </td>
+  </tr>
+</table>
 
 ---
 
