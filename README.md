@@ -73,7 +73,7 @@ class Developer {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
 <br><span style="color:#FF4500;">Java</span>
 </td>
 <td align="center" width="96">
@@ -202,10 +202,13 @@ Automated tool for fetching and analyzing NSE stock data with real-time processi
 
 <div align="center">
 
+<!-- Replace default achievements with user-specific GitHub Profile Trophies using the aura theme -->
+
 <img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=aura&column=6&margin-w=20&margin-h=20"/>
 
-</div>
+<p>Find more GitHub achievements from <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#about-achievements">GitHub Docs</a></p>
 
+</div>
 ---
 
 ## 📫 Let's Connect
