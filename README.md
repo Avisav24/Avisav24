@@ -6,7 +6,7 @@
 
   <!-- Tech GIF banner with name -->
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
-       alt="Abhinav Vats Tech Banner" width="100%" />
+       alt="Abhinav Vats Tech Banner" width="50%" />
 
   <h1 align="center">ABHINAV VATS | TECH</h1>
 
@@ -29,16 +29,7 @@
     <img src="https://komarev.com/ghpvc/?username=Avisav24&style=for-the-badge&color=000000&label=PROFILE%20VIEWS" alt="Profile Views"/>
   </p>
 
-  <!-- Badge-style banner like your sample -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-FF7A00?style=for-the-badge" alt="Built with Love" />
-    <img src="https://img.shields.io/badge/BUILT%20WITH-SWAG-FF7A00?style=for-the-badge" alt="Built with Swag" />
-    <img src="https://img.shields.io/badge/OPEN-SOURCE-E74C3C?style=for-the-badge" alt="Open Source" />
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/MADE%20WITH-MARKDOWN-E53935?style=for-the-badge&logo=markdown&logoColor=white" alt="Made with Markdown" />
-  </p>
+ 
 
 </div>
 
