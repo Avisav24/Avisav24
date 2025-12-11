@@ -54,16 +54,6 @@ class Developer {
     String goal2025 = "Master Advanced DSA + Cloud Architecture";
 }
 ```
-
-**🎯 Current Focus Areas:**
-- Advanced DSA (75+ problems solved)
-- Java Spring Boot Microservices
-- React with TypeScript
-- AWS Cloud Architecture
-- System Design & Scalability
-
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack
