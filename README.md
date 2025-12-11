@@ -1,26 +1,44 @@
 <!-- Profile README for Abhinav Vats -->
 
+<!-- ===================== HERO SECTION / BIG BANNER ===================== -->
+
 <div align="center">
 
-# Abhinav Vats  
+<!-- Glowing gradient name banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=ABHINAV+VATS;Full‑Stack+Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Backend+Systems" alt="Abhinav Vats Banner"/>
+</h1>
 
-### Full‑Stack Software Developer · Java · Spring Boot · React
+<!-- Subheading -->
+<h3 align="center">
+  Full‑Stack Software Developer · Java · Spring Boot · React
+</h3>
 
----
+<!-- Simple animated divider -->
+<img src="https://raw.githubusercontent.com/ABSphreak/readme-jokes/main/assets/line-neon.gif" alt="divider" width="80%" />
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-abhinav.is.av@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.is.av@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-abhinav--vats25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-vats25)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Av__is__av-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Av_is_av/)
-![Profile Views](https://komarev.com/ghpvc/?username=Avisav24&style=for-the-badge&color=000000&label=PROFILE%20VIEWS)
+<!-- Contact + Socials -->
+<p align="center">
+  <a href="mailto:abhinav.is.av@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abhinav.is.av%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-vats25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-abhinav--vats25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Av_is_av/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Av__is__av-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Avisav24&style=for-the-badge&color=000000&label=PROFILE%20VIEWS" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full‑Stack+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;React+%7C+TypeScript+%7C+Modern+Frontend;System+Design+and+Scalability;Always+Learning%2C+Always+Building)](https://github.com/Avisav24)
+<!-- ===================== QUICK TYPING INTRO ===================== -->
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full‑Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React.js;Clean+Code+%7C+Scalable+Systems+%7C+High+Ownership;Always+learning+%26+building+in+public" alt="Typing Intro"/>
 </div>
 
 ---
@@ -53,12 +71,28 @@ class Developer {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Avisav24&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- Main Stats -->
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 
-<br/>
+  <!-- Streak -->
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=Avisav24&theme=tokyonight&hide_border=false"
+    alt="GitHub Streak"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
+  <br/>
+
+  <!-- Top Languages -->
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
+    alt="Top Languages"
+  />
 
 </div>
 
@@ -127,8 +161,10 @@ class Developer {
 
 <div align="center">
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Active%20Grinder-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/Av_is_av/)
-[![Focus Badge](https://img.shields.io/badge/Focus-FAANG%20Prep-000000?style=for-the-badge&logo=target&logoColor=FF4B4B)]()
+  <a href="https://leetcode.com/u/Av_is_av/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Active%20Grinder-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode Stats"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-FAANG%20Prep-000000?style=for-the-badge&logo=target&logoColor=FF4B4B" alt="Focus Badge"/>
 
 </div>
 
@@ -138,12 +174,21 @@ class Developer {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" alt="Coding Gif"/>
+  <!-- Replacing with a reliable code GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2aW9sbGR0N3RwMGQ0cXAzanRrYTdsb2UybXBja293NmRveDEyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Coding Gif"/>
 
-### Open to:
-**Full‑Stack Development Internships · SDE Roles · Interesting Open‑Source Work**
+  <br/><br/>
 
-[![Email Me](https://img.shields.io/badge/Email-Start_a_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.is.av@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-vats25)
+  ### Open to:
+  **Full‑Stack Development Internships · SDE Roles · Interesting Open‑Source Work**
+
+  <br/>
+
+  <a href="mailto:abhinav.is.av@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Start_a_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-vats25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
+  </a>
 
 </div>
