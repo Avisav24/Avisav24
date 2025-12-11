@@ -4,20 +4,19 @@
 
 <div align="center">
 
-<!-- Glowing gradient name banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=ABHINAV+VATS;Full‑Stack+Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Backend+Systems" alt="Abhinav Vats Banner"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=ABHINAV+VATS;Full‑Stack+Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Backend+Systems"
+    alt="Abhinav Vats - Full‑Stack Java | Spring Boot | React"
+  />
 </h1>
 
-<!-- Subheading -->
 <h3 align="center">
   Full‑Stack Software Developer · Java · Spring Boot · React
 </h3>
 
-<!-- Simple animated divider -->
 <img src="https://raw.githubusercontent.com/ABSphreak/readme-jokes/main/assets/line-neon.gif" alt="divider" width="80%" />
 
-<!-- Contact + Socials -->
 <p align="center">
   <a href="mailto:abhinav.is.av@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-abhinav.is.av%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -104,54 +103,76 @@ class Developer {
 
 <div align="center">
 
-### 💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL"/>
-</p>
-
-### 🚀 Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=59666C" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=cloudflare&logoColor=FF6C37" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="REST APIs"/>
-</p>
-
-### ⚛️ Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-</p>
-
-### ☁️ DevOps & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" /><br/>
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" /><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" /><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" /><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" /><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" /><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -174,7 +195,6 @@ class Developer {
 
 <div align="center">
 
-  <!-- Replacing with a reliable code GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2aW9sbGR0N3RwMGQ0cXAzanRrYTdsb2UybXBja293NmRveDEyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Coding Gif"/>
 
   <br/><br/>
