@@ -40,7 +40,8 @@ class Developer {
     String name = "Abhinav Vats";
     String role = "Java Full-Stack Developer";
     String education = "BTech CSE | 3rd Year";
-    
+    double cgpa = 9.17;
+
     String[] coreSkills = {
         "Java Backend Development",
         "React Frontend",
@@ -50,8 +51,20 @@ class Developer {
     };
 
     String currentFocus = "Building production-ready full-stack applications";
-    String goal2026 = "Master Advanced DSA + Cloud Architecture";
+    String goal2025 = "Master Advanced DSA + Cloud Architecture";
 }
+```
+
+**🎯 Current Focus Areas:**
+- Advanced DSA (75+ problems solved)
+- Java Spring Boot Microservices
+- React with TypeScript
+- AWS Cloud Architecture
+- System Design & Scalability
+
+<br clear="right"/>
+
+---
 
 ## 🛠️ Tech Stack
 
