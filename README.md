@@ -4,16 +4,11 @@
 
 <div align="center">
 
-<!-- Small looping Java logo animation -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VqbnU1b2M3dzFhN3Z4cm9qM2JzM2E1YXNqM2d1NnE3eDNpeGtvMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VgCDAzcKvsR6OM0uWg/giphy.gif"
-     alt="Java Logo Animation" width="90" />
+<!-- Tech GIF banner with name -->
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+     alt="Abhinav Vats Tech Banner" width="100%" />
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=ABHINAV+VATS;Full‑Stack+Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Backend+Systems"
-    alt="Abhinav Vats - Full‑Stack Java | Spring Boot | React"
-  />
-</h1>
+<h1 align="center">ABHINAV VATS | TECH</h1>
 
 <h3 align="center">
   Full‑Stack Software Developer · Java · Spring Boot · React
@@ -42,7 +37,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full‑Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React.js;Clean+Code+%7C+Scalable+Systems+%7C+High+Ownership;Always+learning+%26+building+in+public"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full‑Stack+Developer;Spring+Boot+%26+Microservices;React.js+%7C+TypeScript;Open+to+SDE+Internships+%26+Full‑Time+Roles"
     alt="Typing Intro"
   />
 </div>
@@ -83,7 +78,7 @@ class Developer {
   <!-- RIGHT: Java-themed coding animation -->
   <td width="45%" align="center">
     <img
-      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk0M2V1bWdqOW9ycGZ4NjN1YnhycmJkYXM1dXc4bzR5MzRqaGFrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif"
+      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk0M2V1bWdqOW9ycGZ4NjN1YnhycmJkYXM1dXc4bzR5MzRqaGFrMCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/SS8CV2rQdlYNLtBCiF/giphy.gif"
       alt="Java coding animation"
       width="100%"
     />
@@ -223,7 +218,7 @@ class Developer {
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2aW9sbGR0N3RwMGQ0cXAzanRrYTdsb2UybXBja293NmRveDEyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Coding Gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp2aW9sbGR0N3RwMGQ0cXAzanRrYTdsb2UybXBja293NmRveDEyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Developer at work" />
 
   <br/><br/>
 
@@ -239,4 +234,4 @@ class Developer {
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
   </a>
 
-</div>
+</div>.
