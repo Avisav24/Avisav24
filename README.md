@@ -38,19 +38,26 @@ Feel free to explore and connect with me.
 
 ---
 
-### 🔥 GitHub Stats & Languages
+### 🔥 GitHub Stats & Activity
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
         <a href="https://github.com/Avisav24">
-          <img src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
         </a>
       </td>
       <td width="50%" valign="top">
         <a href="https://github.com/Avisav24">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top">
+        <a href="https://github.com/Avisav24">
+          <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&theme=dracula&hide_border=true&bg_color=282a36" alt="GitHub Activity Graph"/>
         </a>
       </td>
     </tr>
@@ -62,32 +69,25 @@ Feel free to explore and connect with me.
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  
-  <br>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
-  
-  <br>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  
-  <br>
-  
-  <!-- Database & Cloud -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+    <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </p>
 </div>
 
 ---
