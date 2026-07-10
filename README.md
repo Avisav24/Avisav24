@@ -1,17 +1,19 @@
 <div align="center">
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Java%20DSA%20Enthusiast%20%7C%20Final%20Year%20CSE&descAlignY=52&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:06b6d4&height=210&section=header&text=Abhinav%20Vats&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Java%20DSA%20Enthusiast%20%7C%20Final%20Year%20CSE&descAlignY=53&descAlign=50&descSize=18"/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;MongoDB+%2B+Express+%2B+React+%2B+Node.js;Solving+DSA+Problems+in+Java;Building+Scalable+Web+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;MongoDB+%2B+Express+%2B+React+%2B+Node.js;Solving+DSA+Problems+in+Java;Building+Scalable+Web+Applications" alt="Typing SVG"/>
+
+<br/>
 
 <!-- ═══════════════════════ BADGES ═══════════════════════ -->
 <p>
-  <img src="https://img.shields.io/badge/MERN-Full_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Java-DSA_Problem_Solver-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1b27"/>
-  <img src="https://komarev.com/ghpvc/?username=Avisav24&color=667eea&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/badge/MERN-Full_Stack-00D9FF?style=for-the-badge&logo=react&logoColor=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Java-DSA_Problem_Solver-3B82F6?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Avisav24&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 <!-- ═══════════════════════ SOCIAL LINKS ═══════════════════════ -->
@@ -27,9 +29,10 @@
 </a>
 </p>
 
-</div>
+<!-- ═══════════════════════ ANIMATED DIVIDER ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+</div>
 
 ## 💻 About Me
 
@@ -45,7 +48,7 @@ const abhinav = {
         frontend:  ["React.js", "Redux", "Tailwind CSS", "JavaScript (ES6+)"],
         backend:   ["Node.js", "Express.js", "REST APIs", "JWT Auth"],
         database:  ["MongoDB", "Mongoose", "MySQL"],
-        dsa:       "Java — LeetCode & Competitive Problem Solving"
+        dsa:       "Java — Problem Solving & Competitive Coding"
     },
 
     currentFocus: "Building production-ready MERN applications",
@@ -56,7 +59,9 @@ const abhinav = {
 
 <br clear="right"/>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -79,22 +84,9 @@ const abhinav = {
 
 </div>
 
----
-
-## 🧩 DSA Journey — LeetCode
-
 <div align="center">
-
-<a href="https://leetcode.com/Av_is_av/">
-<img src="https://leetcard.jacoblin.cool/Av_is_av?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-</a>
-
-<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Arrays_•_Trees_•_Graphs_•_DP-764ba2?style=for-the-badge"/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -110,7 +102,7 @@ Analyzes Twitter data to predict election outcomes with sentiment classification
 **Tech:** `Python` `NLP` `Machine Learning` `Twitter API`
 
 <a href="https://github.com/Avisav24/IndianElection_ResultPredictor">
-<img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -124,7 +116,7 @@ Automated tool for fetching and analyzing NSE stock data with real-time processi
 **Tech:** `Python` `Pandas` `REST APIs` `Data Analysis`
 
 <a href="https://github.com/Avisav24/NSE_Data_Downloader">
-<img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -147,39 +139,43 @@ Short 1–2 line description of what it does and the problem it solves.
 **Tech:** `MongoDB` `Express.js` `React` `Node.js`
 
 <a href="https://github.com/Avisav24/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://your-live-demo.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-f093fb?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
 -->
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=FFFFFF&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Avisav24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avisav24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="165" alt="Top Languages"/>
 </p>
 
-<img src="https://streak-stats.demolab.com?user=Avisav24&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=f093fb&fire=f093fb&currStreakLabel=ffffff&sideLabels=667EEA&dates=ffffff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Avisav24&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=3B82F6&dates=C9D1D9" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avisav24&bg_color=0d1117&color=00d9ff&line=3b82f6&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Avisav24&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 ## 📫 Let's Connect
 
@@ -207,8 +203,7 @@ Short 1–2 line description of what it does and the problem it solves.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" alt="Divider"/>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:06b6d4&height=120&section=footer"/>
 
 </div>
